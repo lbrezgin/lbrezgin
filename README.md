@@ -16,7 +16,7 @@
  <li><b>Design:</b> Figma</li>
 </ul>
 
-<h3>Language Proficiency</h3>
+<h3>Language proficiency</h3>
 <ul>
  <li><b>Russian:</b> Native</li>
  <li><b>English:</b> Upper Intermediate (B2)</li>
