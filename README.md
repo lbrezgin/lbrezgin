@@ -22,5 +22,3 @@
  <li><b>English:</b> Upper Intermediate (B2)</li>
  <li><b>Latvian:</b> Upper Intermediate (B2)</li>
 </ul>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbrezgin&layout=compact)](https://github.com/lbrezgin/github-readme-stats)
