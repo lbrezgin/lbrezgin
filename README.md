@@ -1,7 +1,7 @@
 <h3 align="center">Computer systems student and Ruby on Rails enthusiast</h3>
 
 <p>📚 Currently, I am taking a professional development course on the Ruby on Rails framework from the online school <a href="https://thinknetica.com" target="_blank">Thinknetica</a></p>
-<p>📚 Student in Riga Technical University</p>
+<p>📚 Student at Riga Technical University</p>
 <h3>Below are some of the key skills and technologies I work with:</h3>
 <ul>
  <li><b>Languages & Frameworks:</b> Ruby, Rails, JavaScript, HTML, CSS</li>
