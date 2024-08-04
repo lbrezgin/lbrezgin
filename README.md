@@ -1,6 +1,5 @@
-<h2 align="center">Hi there, I'm Levs</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student and Ruby on Rails enthusiast from Latvia 🇱🇻</h3>
+<h3 align="center">Computer science student and Ruby on Rails enthusiast</h3>
 
 <p>🌱 Currently, I am taking a professional development course on the Ruby on Rails framework from the online school <a href="https://thinknetica.com" target="_blank">Thinknetica</a>.</p>
 
