@@ -1,4 +1,6 @@
-![Dancing Go Gopher](gopher.gif)
+<p align="center">
+  <img src="gopher.gif" width="220" />
+</p>
 
 <!--
 **lbrezgin/lbrezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
