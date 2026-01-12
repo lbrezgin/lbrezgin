@@ -1,6 +1,5 @@
-## Hi there 👋
+![Dancing Go Gopher](gopher.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lbrezgin)](https://github.com/lbrezgin/github-readme-stats)
 <!--
 **lbrezgin/lbrezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
