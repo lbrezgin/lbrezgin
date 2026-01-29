@@ -1,6 +1,6 @@
 * 🔗 [View my resume](https://drive.google.com/drive/folders/1JKOwfA4qqb3QTdOtRjIJNMr11jL5Pz1o)
 <p align="center">
-  <img src="gopher.gif" width="220" />
+  <img src="img/background.gif" width="220" />
 </p>
 
 <!--
